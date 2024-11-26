@@ -1,0 +1,110 @@
+Directions for next 5Q: Read the following information carefully and answer the questions given below.
+
+Prince, Qamar, Rohit, Sohan, Tony, Umesh, Vinod and Wahid went to a theatre to watch a movie “GOLD”. They were seated in a straight row facing towards the screen which was in the north direction. The total bill of all 8 tickets was Rs. 500 and was split among them unevenly such that no two persons paid the same amount.
+Prince was 4th to the left of the one who paid Rs. 39 which is not the least paid amount.
+The one who paid Rs. 79 was neighbouring Tony.
+Rohit was immediate right of the one who paid half of the amount paid by Vinod.
+Sum of the amount paid by Prince and Qamar was Rs. 160, where the amount paid by Prince is a perfect square between 30 and 90 and the amount paid by Qamar is a prime number.
+Wahid was seated third to the right of Prince and Prince was not an immediate neighbour of Tony.
+Tony was seated at one of the extreme ends and paid a sum that was a square between 35 and 70, which was not the least amount to be paid.
+Vinod paid a sum of Rs. 84 and was third to the left of the one who paid Rs. 75.
+Sohan paid Rs. 39 but was not sitting at the extreme end.
+Nobody paid an amount more than Rs. 85.
+
+
+What is the least amount and paid by whom of the following?
+
+  (1)  
+Rs. 32, Umesh
+
+   (2)  
+Rs. 36, Wahid
+
+  (3)  
+Rs. 36, Umesh
+
+  (4)  
+Rs. 42, Umesh
+
+  (5)  
+Rs. 38, Wahid
+
+Report this question / solution
+Question: 62 Time Taken: 1 sec  
+
+Which of the following is the difference of the amounts paid by the persons at the extreme ends?
+
+  (1)  
+25
+
+  (2)  
+27
+
+  (3)  
+35
+
+   (4)  
+20
+
+  (5)  
+None of these
+
+Report this question / solution
+Question: 63 Time Taken: 0 sec  
+
+Which of the following amounts is paid by Tony?
+
+   (1)  
+Rs. 64
+
+  (2)  
+Rs. 36
+
+  (3)  
+Rs. 25
+
+  (4)  
+Rs. 49
+
+  (5)  
+None of these
+
+Report this question / solution
+Question: 64 Time Taken: 0 sec  
+
+Four of the following five are alike in certain way and thus form a group. Which of the following does not belong to the group?
+
+  (1)  
+Tony
+
+  (2)  
+Prince
+
+  (3)  
+Sohan
+
+  (4)  
+Rohit
+
+   (5)  
+Qamar
+
+Report this question / solution
+Question: 65 Time Taken: 0 sec  
+
+Which of the following combinations is not correct?
+
+  (1)  
+Sohan – 39
+
+  (2)  
+Prince – 81
+
+   (3)  
+Wahid – 26
+
+  (4)  
+Vinod – 84
+
+  (5)  
+Tony – 64
